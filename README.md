@@ -1,4 +1,3 @@
-```
 # C File Compressor
 
 A simple and small utility written in C for file compression and decompression using Raylib.
@@ -34,5 +33,3 @@ my_document.txt.compressed
 ./compress -d my_document.txt.compressed
 my_document.txt.compressed.decompressed
 ```
-```
-***
